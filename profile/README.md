@@ -83,12 +83,4 @@ To get started:
 
 ---
 
-## 🧑🏽‍🔬 Maintainers
-
-This organization is maintained by:  
-**Vijay Janapa Reddi**, Harvard University  
-**Contributors** across academia and industry
-
----
-
 📘 https://mlsysbook.ai · 🔬 https://github.com/mlsysbook/labs · 🧰 https://github.com/mlsysbook/kits · 🛠️ https://github.com/mlsysbook · 💬 https://github.com/orgs/mlsysbook/discussions
