@@ -14,7 +14,7 @@ Welcome to the official GitHub organization for the **Machine Learning Systems**
 
 This GitHub organization complements the textbook with real-world artifacts across the ML systems stack:
 
-- 🔌 **Hardware labs and kits**: Hands-on educational kits for learning and teaching ML systems using TinyML.
+- 🔌 **Hardware kits**: Hands-on educational kits for learning and teaching ML systems using TinyML.
 - 🧪 **Hands-on labs**: Exercises tied to textbook chapters, from data pipelines to deployment and optimization.
 - 🏗️ **System implementations**: Reference implementations of training loops, runtime layers, model optimization workflows, and benchmarking setups.
 - 📊 **Benchmarking tools**: Aligned with emerging standards in energy, performance, and sustainability.
@@ -24,7 +24,7 @@ This GitHub organization complements the textbook with real-world artifacts acro
 
 ## 🧰 Key Repositories
 
-- [`xiaoml-kit`](https://github.com/mlsysbook/xiaoml-kit): Hardware and software bundle for building ML systems at the edge  
+- [`kits`](https://github.com/mlsysbook/kits): Hardware and software bundle for building ML systems at the edge  
 - [`labs`](https://github.com/mlsysbook/labs): Companion labs for hands-on learning  
 - [`book`](https://github.com/mlsysbook/book): (Coming soon) Quarto source files for textbook contributions  
 - [`benchmarks`](https://github.com/mlsysbook/benchmarks): Experimental benchmarking harnesses (in progress)  
