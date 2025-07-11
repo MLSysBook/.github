@@ -2,7 +2,7 @@
 
 Welcome to the official GitHub organization for the **Machine Learning Systems** textbook.
 
-This open-access, system-first initiative was developed at **Harvard University** by [Vijay Janapa Reddi](https://profvjreddi.github.io/website/) to train the next generation of AI engineers who think holistically across algorithms, data, hardware, and infrastructure. It reflects a long-term vision to shape the future of machine learning systems education in both academic and applied settings.
+This open-access, system-first initiative was developed at Harvard University by [Vijay Janapa Reddi](https://profvjreddi.github.io/website/) to train the next generation of AI engineers who think holistically across algorithms, data, hardware, and infrastructure. It reflects a long-term vision to shape the future of machine learning systems education in both academic and applied settings.
 
 ---
 
