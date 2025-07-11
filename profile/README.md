@@ -1,90 +1,40 @@
 # 📘 Machine Learning Systems: Textbook and Educational Resources
 
-Welcome to the official GitHub organization for the **Machine Learning Systems** textbook. 
+Welcome to the official GitHub organization for the **Machine Learning Systems** textbook.
 
-This is an open access, system-first initiative developed at Harvard University by [Vijay Janapa Reddi](https://profvjreddi.github.io/website/) to train a new generation of AI engineers in the classroom who think holistically across algorithms, data, hardware, and infrastructure. The organization reflects a long-term vision to shape the future of machine learning systems education in both academic and applied settings.
-
-
-
-🔗 [Read the textbook](https://mlsysbook.ai)  
-🔬 [Explore the labs](https://github.com/mlsysbook/labs)  
-🧰 [Explore hardware kits](https://github.com/mlsysbook/kits)  
-💬 [Join the discussions](https://github.com/orgs/mlsysbook/discussions)  
-💡 [Browse all repositories](https://github.com/mlsysbook)
+This open-access, system-first initiative was developed at **Harvard University** by [Vijay Janapa Reddi](https://profvjreddi.github.io/website/) to train the next generation of AI engineers who think holistically across algorithms, data, hardware, and infrastructure. It reflects a long-term vision to shape the future of machine learning systems education in both academic and applied settings.
 
 ---
 
-## 🧱 What You’ll Find Here
+## 🧰 What You’ll Find
 
-This GitHub organization complements the textbook with real-world artifacts across the ML systems stack:
+This organization brings the textbook to life with practical, open-source resources for teaching and learning machine learning systems:
 
-- 🔌 **Hardware kits**: Hands-on educational kits for learning and teaching ML systems using TinyML.
-- 🧪 **Hands-on labs**: Exercises tied to textbook chapters, from data pipelines to deployment and optimization.
-- 🏗️ **System implementations**: Reference implementations of training loops, runtime layers, model optimization workflows, and benchmarking setups.
-- 📊 **Benchmarking tools**: Aligned with emerging standards in energy, performance, and sustainability.
-- 📚 **Educational tooling**: Instructor resources (under development) including test banks, slides, and certification materials.
-
----
-
-## 🧰 Key Repositories
-
-- [`kits`](https://github.com/mlsysbook/kits): Hardware and software bundle for building ML systems at the edge  
-- [`labs`](https://github.com/mlsysbook/labs): Companion labs for hands-on learning  
-- [`book`](https://github.com/mlsysbook/book): (Coming soon) Quarto source files for textbook contributions  
-- [`benchmarks`](https://github.com/mlsysbook/benchmarks): Experimental benchmarking harnesses (in progress)  
-- [`examples`](https://github.com/mlsysbook/examples): System case studies and runnable examples  
+- 📘 [**Textbook**](https://mlsysbook.ai): The open-access book that spans the full ML lifecycle, from data to deployment  
+- 🧪 [**Labs & Exercises**](https://github.com/mlsysbook/labs): Chapter-aligned exercises and hands-on notebooks  
+- 🔌 [**Hardware Kits**](https://github.com/mlsysbook/kits): Embedded and edge ML projects using TinyML hardware  
+- 🔧 [**TinyTorch Project**](https://github.com/mlsysbook/tinytorch): Build ML infrastructure from scratch, including autograd, runtime, and training loops  
+- 🎓 [**Instructor Courseware**](https://github.com/mlsysbook/courseware): Slides, test banks, and certification resources (in development)  
+- 💬 [**Discussions & Forum**](https://github.com/orgs/mlsysbook/discussions): Join the conversation on GitHub discussions and the Discord forum
 
 ---
 
-## 👩‍💼 Who Is This For?
+## 👩‍🏫 Who This Is For
 
-This content is designed for:
-
-- **Students** learning how ML systems are built, optimized, and deployed
-- **Educators** teaching modern ML from a systems perspective
-- **Engineers and builders** working on real-world applications
-- **Researchers** pushing the boundaries of hardware-software co-design
-
----
-
-## 📖 About the Book
-
-> *Machine Learning Systems* is an open-access textbook that covers the full lifecycle of ML systems — from data to deployment. It provides a structured view of the stack: data engineering, frameworks, optimization, hardware acceleration, sustainability, privacy, robustness, and more.
-
-You can read the full book online at [**mlsysbook.ai**](https://mlsysbook.ai). Chapters include:
-
-1. Introduction  
-2. ML Systems  
-3. DL Primer  
-4. DNN Architectures  
-5. AI Workflow  
-6. Data Engineering  
-7. AI Frameworks  
-8. AI Training  
-9. Efficient AI  
-10. Model Optimizations  
-11. AI Acceleration  
-12. Benchmarking AI  
-13. ML Operations  
-14. On-Device Learning  
-15. Security & Privacy  
-16. Responsible AI  
-17. Sustainable AI  
-18. Robust AI  
-19. AI for Good  
-20. Conclusion
+- **Students** learning how ML systems are built and deployed  
+- **Educators** teaching modern ML from a systems perspective  
+- **Engineers** building ML infrastructure in real-world settings  
+- **Researchers** exploring hardware-software co-design  
 
 ---
 
 ## 🤝 Contributing
 
-We welcome contributions to labs, kits, and educational tools.  
-To get started:
+We welcome contributions across all repositories. To get started:
 
-- Check individual repo `README`s for guidelines
-- Open an [issue](https://github.com/mlsysbook/labs/issues) to suggest ideas
-- Share your feedback via [contact@mlsysbook.ai](mailto:contact@mlsysbook.ai)
+- Review the `README.md` in each individual repository  
+- Open an [issue](https://github.com/mlsysbook/labs/issues) to share ideas or suggest improvements  
+- Contact us at [contact@mlsysbook.ai](mailto:contact@mlsysbook.ai)
 
 ---
-
-📘 https://mlsysbook.ai · 🔬 https://github.com/mlsysbook/labs · 🧰 https://github.com/mlsysbook/kits · 🛠️ https://github.com/mlsysbook · 💬 https://github.com/orgs/mlsysbook/discussions
+📘 https://mlsysbook.ai · 🔬 https://github.com/mlsysbook/labs · 🧰 https://github.com/mlsysbook/kits · 💬 https://github.com/orgs/mlsysbook/discussions
