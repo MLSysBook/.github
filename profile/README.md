@@ -1,6 +1,8 @@
 # 📘 Machine Learning Systems: Textbook and Educational Resources
 
-Welcome to the official GitHub organization for the **Machine Learning Systems** textbook — an open-access, system-first initiative to train a new generation of engineers who think holistically across algorithms, data, hardware, and infrastructure. This organization is part of a long-term vision to shape the future of ML systems education — both in academia and in practice.
+Welcome to the official GitHub organization for the **Machine Learning Systems** textbook. This is an open access, system-first initiative developed at Harvard University by [Vijay Janapa Reddi](https://profvjreddi.github.io/website/) to train a new generation of AI engineers in the classroom who think holistically across algorithms, data, hardware, and infrastructure. The organization reflects a long-term vision to shape the future of machine learning systems education in both academic and applied settings.
+
+
 
 🔗 [Read the textbook](https://mlsysbook.ai)  
 🔬 [Explore the labs](https://github.com/mlsysbook/labs)  
