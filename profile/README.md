@@ -1,4 +1,4 @@
-# 📘 Machine Learning Systems: Textbook and Educational Resources
+# 📘 Machine Learning Systems: Textbook & Educational Resources
 
 Welcome to the official GitHub organization for the **Machine Learning Systems** textbook.
 
