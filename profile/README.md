@@ -1,4 +1,4 @@
-# MLSysBook.org Hub Repository
+# MLSysBook.org Organizational Hub
 
 This repository powers [**MLSysBook.org**](https://mlsysbook.org), the **official hub for the Machine Learning Systems textbook** and its growing ecosystem of open-source tools, labs, and educational resources.
 
