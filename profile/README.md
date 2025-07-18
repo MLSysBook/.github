@@ -2,7 +2,7 @@
 
 This repository powers [**MLSysBook.org**](https://mlsysbook.org), the **official hub for the Machine Learning Systems textbook** and its growing ecosystem of open-source tools, labs, and educational resources.
 
-MLSysBook began as a course at Harvard University by [Vijay Janapa Reddi](https://profvjreddi.github.io/website/). Today, it's a global movement thanks to the many amazing people who make **AI systems engineering education** accessible, hands-on, and community-powered. 
+[MLSysBook]([https://mlsysbook.ai) began as a _tinyML_ course at Harvard University by [Vijay Janapa Reddi](https://profvjreddi.github.io/website/). Today, it's a global movement thanks to the many amazing people who make **AI systems engineering education** accessible, hands-on, and community-powered. 
 
 This site exists solely to connect learners, educators, and contributors to the comprehensive ecosystem that trains the next generation of AI engineers to think holistically across algorithms, data, hardware, and infrastructure.
 
