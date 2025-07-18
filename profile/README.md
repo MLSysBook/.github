@@ -13,7 +13,7 @@ This organization brings the textbook to life with practical, open-source resour
 - 📘 [**Textbook**](https://mlsysbook.ai): The open-access book that spans the full ML lifecycle, from data to deployment  
 - 🔌 [**Hardware Kits**](https://github.com/mlsysbook/kits): Embedded and edge ML projects using TinyML hardware  
 - 🔧 [**TinyTorch Project**](https://github.com/mlsysbook/tinytorch): Colab notebooks and programming exercises on ML infra
-- 🎓 [**Instructor Courseware**]([https://github.com/mlsysbook/courseware](https://github.com/tinyMLx/courseware/tree/master/edX)): Slides, test banks, and certification resources (in development)  
+- 🎓 [**Instructor Courseware**](https://github.com/tinyMLx/courseware/tree/master/edX): Slides, test banks, and certification resources (in development)  
 - 💬 [**Discussions and Forum**](https://github.com/orgs/mlsysbook/discussions): Join the conversation on GitHub discussions and the Discord forum
 
 ---
